@@ -49,3 +49,10 @@ img {
     font-size: large;
     color: rgb(98, 33, 33);
 }
+
+.genie {
+    width:400px;
+}
+.lamp {
+    width:200px;
+}
